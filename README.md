@@ -43,8 +43,8 @@ O script executa as seguintes etapas:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/LarisMorais/ETL-Ibovespa.git
-   cd ETL-Ibovespa
+   git clone https://github.com/LarisMorais/ETLIbovespa.git
+   cd ETLIbovespa
    ```
 
 2. Instale as dependências:
